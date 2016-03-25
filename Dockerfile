@@ -6,3 +6,5 @@ RUN apk update && apk add \
     gcc \
     make \ 
     musl-dev
+
+CMD ["bash"]
