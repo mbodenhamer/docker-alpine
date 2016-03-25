@@ -1,2 +1,1 @@
-# docker-alpine
-A rudimentary Alpine base image
+A rudimentary Alpine base image.
